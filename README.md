@@ -1,5 +1,5 @@
 ### ![cropped-Passportpic](https://github.com/user-attachments/assets/605fa624-455b-4e26-8c74-cb900faecbe4)
-[https://www.linkedin.com/in/dandolu-lakshminarayana-reddy-6016b6143/](#Linkedin).
+[https://www.linkedin.com/in/dandolu-lakshminarayana-reddy-6016b6143/](#Linkedin).   [https://www.salesforce.com/trailblazer/dreddy972] (#Trailblazer)
 
 
 ## About Me
@@ -45,13 +45,13 @@ Salesforce Administrator & CPQ Specialist
 * Utilized tools such as Jira and Test Rail in an Agile/Scrum environment to track issues, plan releases, and document test plans.
 
 ### Key Accomplishments:
-*Successfully led the configuration of complex CPQ processes, enhancing quoting accuracy and efficiency.
-*Reduced data inaccuracies by 30% through regular audits and integration of automated data management workflows.
-*Delivered user training sessions that improved platform adoption and proficiency among end users.
+* Successfully led the configuration of complex CPQ processes, enhancing quoting accuracy and efficiency.
+* Reduced data inaccuracies by 30% through regular audits and integration of automated data management workflows.
+* Delivered user training sessions that improved platform adoption and proficiency among end users.
 
 ### Certifications
-*Salesforce Certified Associate (ADM 201)
-*Salesforce Certified Administrator
+*Salesforce Certified Associate 
+*Salesforce Certified Administrator (ADM 201)
 *Salesforce Certified CPQ Specialist
 
 ### Trailhead Superbadges
