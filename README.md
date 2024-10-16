@@ -1,5 +1,5 @@
 ### ![cropped-Passportpic](https://github.com/user-attachments/assets/605fa624-455b-4e26-8c74-cb900faecbe4)
-[https://www.linkedin.com/in/dandolu-lakshminarayana-reddy-6016b6143/](#Linkedin).   [https://www.salesforce.com/trailblazer/dreddy972] (#Trailblazer)
+[https://www.linkedin.com/in/dandolu-lakshminarayana-reddy-6016b6143/](#Linkedin).   [https://www.salesforce.com/trailblazer/dreddy972](#Trailblazer)
 
 
 ## About Me
