@@ -27,7 +27,7 @@ Texas A&M University - Commerce
 ### Work Experience
                                                                   
 Salesforce Administrator & CPQ Specialist
-Cognizant Technology Solutions, Hyderabad, India  | 2021 MAR - 2023 JUN 
+* Cognizant Technology Solutions, Hyderabad, India  | 2021 MAR - 2023 JUN 
 
 * Collaborated with cross-functional teams and stakeholders to gather and evaluate business requirements, transforming them into efficient Salesforce solutions.
 * Managed user setup, deactivation, and administration, including profiles, roles, role hierarchies, permission sets, OWD, public groups, and sharing settings, ensuring comprehensive data security.
@@ -35,28 +35,28 @@ Cognizant Technology Solutions, Hyderabad, India  | 2021 MAR - 2023 JUN
 * Led Salesforce integration projects with external systems, utilizing change sets and deployment tools to manage and distribute changes efficiently.
 * Gained expertise in Salesforce CPQ, configuring pricing, discounting, product bundling, and approval workflows, and ensuring accurate setup of price books, product catalogs, and discount schedules.
 * Customized Salesforce components including reports, dashboards, Lightning record pages, and implemented automation using workflows, flows, and approval processes.
-Created and managed standard and custom objects, fields, page layouts, record types, validation rules, and third-party application integrations to optimize Salesforce performance.
-Conducted thorough testing processes such as functional, integration, unit, smoke, and UAT testing to identify and resolve issues pre-deployment, ensuring seamless functionality.
-Managed data exports, imports, and data audits using Data Loader and Data Import Wizard, maintaining high data integrity and accuracy through regular cleanups.
-Stayed up-to-date with Salesforce releases and best practices by attending events and completing Trailhead modules, applying new knowledge to improve system functionality.
-Provided training and support for new and existing users, documenting processes and addressing end-user tickets to resolve functionality-related questions.
-Developed and reviewed custom code, including Lightning Web Components, Visualforce pages, and Apex (synchronous and asynchronous), attending code review sessions to ensure high-quality deployments.
-Offered Salesforce support across various teams, including Sales, Marketing, Customer Support, Finance, and Operations, to optimize platform usage.
-Utilized tools such as Jira and Test Rail in an Agile/Scrum environment to track issues, plan releases, and document test plans.
+* Created and managed standard and custom objects, fields, page layouts, record types, validation rules, and third-party application integrations to optimize Salesforce performance.
+* Conducted thorough testing processes such as functional, integration, unit, smoke, and UAT testing to identify and resolve issues pre-deployment, ensuring seamless functionality.
+* Managed data exports, imports, and data audits using Data Loader and Data Import Wizard, maintaining high data integrity and accuracy through regular cleanups.
+* Stayed up-to-date with Salesforce releases and best practices by attending events and completing Trailhead modules, applying new knowledge to improve system functionality.
+* Provided training and support for new and existing users, documenting processes and addressing end-user tickets to resolve functionality-related questions.
+* Developed and reviewed custom code, including Lightning Web Components, Visualforce pages, and Apex (synchronous and asynchronous), attending code review sessions to ensure high-quality deployments.
+* Offered Salesforce support across various teams, including Sales, Marketing, Customer Support, Finance, and Operations, to optimize platform usage.
+* Utilized tools such as Jira and Test Rail in an Agile/Scrum environment to track issues, plan releases, and document test plans.
 
 ### Key Accomplishments:
-Successfully led the configuration of complex CPQ processes, enhancing quoting accuracy and efficiency.
-Reduced data inaccuracies by 30% through regular audits and integration of automated data management workflows.
-Delivered user training sessions that improved platform adoption and proficiency among end users.
+*Successfully led the configuration of complex CPQ processes, enhancing quoting accuracy and efficiency.
+*Reduced data inaccuracies by 30% through regular audits and integration of automated data management workflows.
+*Delivered user training sessions that improved platform adoption and proficiency among end users.
 
 ### Certifications
-Salesforce Certified Associate (ADM 201)
-Salesforce Certified Administrator
-Salesforce Certified CPQ Specialist
+*Salesforce Certified Associate (ADM 201)
+*Salesforce Certified Administrator
+*Salesforce Certified CPQ Specialist
 
 ### Trailhead Superbadges
-Security Specialist
-Ligthning Experience Reports and Dashboards Specialist
-Business Administration Specialist
+*Security Specialist
+*Ligthning Experience Reports and Dashboards Specialist
+*Business Administration Specialist
 
 
