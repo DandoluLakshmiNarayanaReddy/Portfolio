@@ -1,5 +1,5 @@
 ### ![cropped-Passportpic](https://github.com/user-attachments/assets/605fa624-455b-4e26-8c74-cb900faecbe4)
-Link to the sample section: [https://www.linkedin.com/in/dandolu-lakshminarayana-reddy-6016b6143/](#Linkedin).
+[https://www.linkedin.com/in/dandolu-lakshminarayana-reddy-6016b6143/](#Linkedin).
 
 
 ## About Me
@@ -29,12 +29,12 @@ Texas A&M University - Commerce
 Salesforce Administrator & CPQ Specialist
 Cognizant Technology Solutions, Hyderabad, India  | 2021 MAR - 2023 JUN 
 
-Collaborated with cross-functional teams and stakeholders to gather and evaluate business requirements, transforming them into efficient Salesforce solutions.
-Managed user setup, deactivation, and administration, including profiles, roles, role hierarchies, permission sets, OWD, public groups, and sharing settings, ensuring comprehensive data security.
-Implemented and oversaw Salesforce releases using a structured release management approach, minimizing interruptions for users while ensuring seamless updates.
-Led Salesforce integration projects with external systems, utilizing change sets and deployment tools to manage and distribute changes efficiently.
-Gained expertise in Salesforce CPQ, configuring pricing, discounting, product bundling, and approval workflows, and ensuring accurate setup of price books, product catalogs, and discount schedules.
-Customized Salesforce components including reports, dashboards, Lightning record pages, and implemented automation using workflows, flows, and approval processes.
+* Collaborated with cross-functional teams and stakeholders to gather and evaluate business requirements, transforming them into efficient Salesforce solutions.
+* Managed user setup, deactivation, and administration, including profiles, roles, role hierarchies, permission sets, OWD, public groups, and sharing settings, ensuring comprehensive data security.
+* Implemented and oversaw Salesforce releases using a structured release management approach, minimizing interruptions for users while ensuring seamless updates.
+* Led Salesforce integration projects with external systems, utilizing change sets and deployment tools to manage and distribute changes efficiently.
+* Gained expertise in Salesforce CPQ, configuring pricing, discounting, product bundling, and approval workflows, and ensuring accurate setup of price books, product catalogs, and discount schedules.
+* Customized Salesforce components including reports, dashboards, Lightning record pages, and implemented automation using workflows, flows, and approval processes.
 Created and managed standard and custom objects, fields, page layouts, record types, validation rules, and third-party application integrations to optimize Salesforce performance.
 Conducted thorough testing processes such as functional, integration, unit, smoke, and UAT testing to identify and resolve issues pre-deployment, ensuring seamless functionality.
 Managed data exports, imports, and data audits using Data Loader and Data Import Wizard, maintaining high data integrity and accuracy through regular cleanups.
