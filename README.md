@@ -50,7 +50,7 @@ Salesforce Administrator & CPQ Specialist
 * Delivered user training sessions that improved platform adoption and proficiency among end users.
 
 ### Certifications
-### ![2022-08_Badge_SF-Certified_Associate_High-Res](https://github.com/user-attachments/assets/0315ede6-2c3b-40f1-9647-22f983a2eb6f)
+### ![alt|200][2022-08_Badge_SF-Certified_Associate_High-Res](https://github.com/user-attachments/assets/0315ede6-2c3b-40f1-9647-22f983a2eb6f)
 *Salesforce Certified Associate
 
 ### ![2021-03_Badge_SF-Certified_Administrator_High-Res](https://github.com/user-attachments/assets/7318ab78-ae4a-4e1c-b801-d9586d437876)
