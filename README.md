@@ -1,3 +1,7 @@
+![cropped-Passportpic](https://github.com/user-attachments/assets/605fa624-455b-4e26-8c74-cb900faecbe4)
+
+## About Me
+
 # Salesforce Administrator
 
 ### Education
