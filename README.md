@@ -1,4 +1,5 @@
 ### ![cropped-Passportpic](https://github.com/user-attachments/assets/605fa624-455b-4e26-8c74-cb900faecbe4)
+Link to the sample section: [https://www.linkedin.com/in/dandolu-lakshminarayana-reddy-6016b6143/](#Linkedin).
 
 
 ## About Me
