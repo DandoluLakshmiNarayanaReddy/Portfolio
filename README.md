@@ -26,8 +26,8 @@ Texas A&M University - Commerce
 
 ### Work Experience
                                                                   
-Salesforce Administrator & CPQ Specialist
-* Cognizant Technology Solutions, Hyderabad, India  | 2021 MAR - 2023 JUN 
+Salesforce Administrator & CPQ Specialist  
++ Cognizant Technology Solutions, Hyderabad, India  | 2021 MAR - 2023 JUN 
 
 * Collaborated with cross-functional teams and stakeholders to gather and evaluate business requirements, transforming them into efficient Salesforce solutions.
 * Managed user setup, deactivation, and administration, including profiles, roles, role hierarchies, permission sets, OWD, public groups, and sharing settings, ensuring comprehensive data security.
@@ -35,9 +35,12 @@ Salesforce Administrator & CPQ Specialist
 * Led Salesforce integration projects with external systems, utilizing change sets and deployment tools to manage and distribute changes efficiently.
 * Gained expertise in Salesforce CPQ, configuring pricing, discounting, product bundling, and approval workflows, and ensuring accurate setup of price books, product catalogs, and discount schedules.
 * Customized Salesforce components including reports, dashboards, Lightning record pages, and implemented automation using workflows, flows, and approval processes.
-* Created and managed standard and custom objects, fields, page layouts, record types, validation rules, and third-party application integrations to optimize Salesforce performance.
-* Conducted thorough testing processes such as functional, integration, unit, smoke, and UAT testing to identify and resolve issues pre-deployment, ensuring seamless functionality.
-* Managed data exports, imports, and data audits using Data Loader and Data Import Wizard, maintaining high data integrity and accuracy through regular cleanups.
+* Created and managed standard and custom objects, fields, page layouts, record types, validation rules, and third-party application integrations to optimize Salesforce performance.![2021-03_Badge_SF-Certified_CPQ-Specialist_High-Res](https://github.com/user-attachments/assets/5d108e85-d94d-4a13-9b49-fd1a5b39d61d)
+
+* Conducted thorough testing processes such as functional, integration, unit, smoke, and UAT testing to identify and resolve issues pre-deployment, ensuring seamless functionality.![2021-03_Badge_SF-Certified_Administrator_High-Res](https://github.com/user-attachments/assets/7318ab78-ae4a-4e1c-b801-d9586d437876)
+
+* Managed data exports, i![2022-08_Badge_SF-Certified_Associate_High-Res](https://github.com/user-attachments/assets/0315ede6-2c3b-40f1-9647-22f983a2eb6f)
+mports, and data audits using Data Loader and Data Import Wizard, maintaining high data integrity and accuracy through regular cleanups.
 * Stayed up-to-date with Salesforce releases and best practices by attending events and completing Trailhead modules, applying new knowledge to improve system functionality.
 * Provided training and support for new and existing users, documenting processes and addressing end-user tickets to resolve functionality-related questions.
 * Developed and reviewed custom code, including Lightning Web Components, Visualforce pages, and Apex (synchronous and asynchronous), attending code review sessions to ensure high-quality deployments.
@@ -50,9 +53,12 @@ Salesforce Administrator & CPQ Specialist
 * Delivered user training sessions that improved platform adoption and proficiency among end users.
 
 ### Certifications
-*Salesforce Certified Associate 
-*Salesforce Certified Administrator (ADM 201)
-*Salesforce Certified CPQ Specialist
+*Salesforce Certified Associate [Cert3416349_Associate_20230521.pdf](https://github.com/user-attachments/files/17400865/Cert3416349_Associate_20230521.pdf)
+
+*Salesforce Certified Administrator (ADM 201)[Cert2412768_Administrator_20220705.pdf](https://github.com/user-attachments/files/17400862/Cert2412768_Administrator_20220705.pdf)
+
+*Salesforce Certified CPQ Specialist[Cert4849880_CPQSpecialist_20240910.pdf](https://github.com/user-attachments/files/17400866/Cert4849880_CPQSpecialist_20240910.pdf)
+
 
 ### Trailhead Superbadges
 *Security Specialist
